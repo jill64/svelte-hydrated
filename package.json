@@ -1,6 +1,6 @@
 {
   "name": "svelte-hydrated",
-  "description": "",
+  "description": "💧 Indicating hydration status by svelte-store ",
   "version": "0.0.0",
   "main": "dist/index.js",
   "type": "module",
@@ -46,15 +46,25 @@
     "vite": "5.0.8",
     "vitest": "1.0.4"
   },
-  "homepage": "",
+  "homepage": "https://github.com/jill64/svelte-hydrated#readme",
   "author": {
-    "name": "",
-    "image": "",
-    "url": ""
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
   },
   "repository": {
     "type": "git",
-    "url": "",
-    "image": ""
-  }
+    "url": "https://github.com/jill64/svelte-hydrated.git",
+    "image": "https://opengraph.githubassets.com/e1d0f3527ce09af54baad4022887a57c3739f51e73ac60024c26b98abba4dcce/jill64/svelte-hydrated"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/jill64/svelte-hydrated/issues",
+  "keywords": [
+    "hydraion",
+    "ssr",
+    "state",
+    "store",
+    "svelte"
+  ]
 }
