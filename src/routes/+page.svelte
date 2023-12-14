@@ -50,7 +50,7 @@
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
   }
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     main {
       grid-template-columns: 1fr;
     }
@@ -94,5 +94,8 @@
   }
   :global(.dark) button:active {
     background: rgba(255, 255, 255, 0.2);
+  }
+  div {
+    overflow-x: auto;
   }
 </style>
