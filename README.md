@@ -38,3 +38,11 @@ The `$hydrated` store is updated to `true` at the next tick when the `browser` i
 The `browser` (`$app/environment`) is useful for identifying the execution environment of the code, but its value is determined before the first rendering is started.  
 This means that `transition` etc. will not be triggered when hydration completes.  
 The `$hydrated` store is updated to `true` at the next `tick` when the browser is `true`, making it simpler to set `transition`.
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
