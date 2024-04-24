@@ -44,7 +44,7 @@
     "svelte-feather-icons": "4.1.0",
     "typescript": "5.4.5",
     "vite": "5.2.10",
-    "vitest": "1.5.0",
+    "vitest": "1.5.1",
     "@sveltejs/vite-plugin-svelte": "3.1.0"
   },
   "homepage": "https://github.com/jill64/svelte-hydrated#readme",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/11d430003fce05cb53b33e5faa385d4075f920ef3767700e8f7e45abedfba830/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/cb9c987b6442fc57fc5f33e66f35b14abb4d09bf99006fa1e2442b8b66d147de/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
