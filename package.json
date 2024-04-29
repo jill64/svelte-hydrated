@@ -31,7 +31,7 @@
     "svelte": "^4.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-svelte": "1.2.23",
+    "@jill64/eslint-config-svelte": "1.2.24",
     "@jill64/npm-demo-layout": "1.0.179",
     "@jill64/playwright-config": "2.2.5",
     "@jill64/prettier-config": "1.0.0",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/37084a1862520da77c5242e589850829ad5aac04e10dcac84854edba476db4b2/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/be2cd491f1aab4fc2a94feb6d5f331097b50f72d5a59f19562703042ebd7a1f8/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
