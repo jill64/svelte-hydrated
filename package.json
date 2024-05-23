@@ -37,7 +37,7 @@
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "1.7.12",
     "@jill64/universal-sanitizer": "1.2.12",
-    "@playwright/test": "1.44.0",
+    "@playwright/test": "1.44.1",
     "@sveltejs/adapter-cloudflare": "4.4.0",
     "@sveltejs/kit": "2.5.10",
     "svelte": "4.2.17",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/920dab21dd346f4a1db4a28c6247ba0cafd544a9810a283e5f1fa85154ff96e4/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/9bbe2aa1f543df6225f1c6d1c577deaec39df068b91916fcc37560c5a23d9103/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
