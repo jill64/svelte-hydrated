@@ -2,11 +2,11 @@
 
 # svelte-hydrated
 
+
 <!----- BEGIN GHOST DOCS BADGES ----->
-
 <a href="https://npmjs.com/package/svelte-hydrated"><img src="https://img.shields.io/npm/v/svelte-hydrated" alt="npm-version" /></a> <a href="https://npmjs.com/package/svelte-hydrated"><img src="https://img.shields.io/npm/l/svelte-hydrated" alt="npm-license" /></a> <a href="https://npmjs.com/package/svelte-hydrated"><img src="https://img.shields.io/npm/dm/svelte-hydrated" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/svelte-hydrated"><img src="https://img.shields.io/bundlephobia/min/svelte-hydrated" alt="npm-min-size" /></a> <a href="https://github.com/jill64/svelte-hydrated/actions/workflows/ci.yml"><img src="https://github.com/jill64/svelte-hydrated/actions/workflows/ci.yml/badge.svg" alt="ci.yml" /></a> <a href="https://svelte-hydrated.jill64.dev"><img src="https://img.shields.io/website?up_message=working&down_message=down&url=https%3A%2F%2Fsvelte-hydrated.jill64.dev" alt="website" /></a>
-
 <!----- END GHOST DOCS BADGES ----->
+
 
 💧 Indicating hydration status by svelte-store
 
