@@ -1,7 +1,7 @@
 {
   "name": "svelte-hydrated",
   "description": "💧 Indicating hydration status by svelte-store ",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "main": "dist/index.js",
   "type": "module",
   "files": [
@@ -31,7 +31,7 @@
     "svelte": "^4.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-svelte": "1.3.0",
+    "@jill64/eslint-config-svelte": "1.3.1",
     "@jill64/npm-demo-layout": "1.0.234",
     "@jill64/playwright-config": "2.4.0",
     "@jill64/prettier-config": "1.0.0",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/0cc8431516bcc66efcfb2493fd2989a4e0816bda380e2f36f55e1e643717c339/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/672cbb5c0685f06dcc01a8cbda87ad65654e812dbbfe53e5cccc455ef897a46e/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
