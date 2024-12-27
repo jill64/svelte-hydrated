@@ -44,7 +44,7 @@
     "svelte-feather-icons": "4.2.0",
     "typescript": "5.7.2",
     "vite": "5.4.11",
-    "vitest": "2.1.2",
+    "vitest": "2.1.8",
     "@sveltejs/vite-plugin-svelte": "3.1.2"
   },
   "homepage": "https://github.com/jill64/svelte-hydrated#readme",
