@@ -1,7 +1,7 @@
 {
   "name": "svelte-hydrated",
   "description": "💧 Indicating hydration status by svelte-store ",
-  "version": "1.0.31",
+  "version": "2.0.0",
   "main": "dist/index.svelte.js",
   "type": "module",
   "files": [
