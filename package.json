@@ -1,17 +1,17 @@
 {
   "name": "svelte-hydrated",
   "description": "💧 Indicating hydration status by svelte-store ",
-  "version": "1.0.31",
-  "main": "dist/index.js",
+  "version": "2.0.0",
+  "main": "dist/index.svelte.js",
   "type": "module",
   "files": [
     "dist"
   ],
   "exports": {
     ".": {
-      "types": "./dist/index.d.ts",
-      "svelte": "./dist/index.js",
-      "default": "./dist/index.js"
+      "types": "./dist/index.svelte.d.ts",
+      "svelte": "./dist/index.svelte.js",
+      "default": "./dist/index.svelte.js"
     }
   },
   "prettier": "@jill64/prettier-config",
@@ -28,11 +28,11 @@
   },
   "peerDependencies": {
     "@sveltejs/kit": "^2.0.0",
-    "svelte": "^4.0.0 || ^5.0.0"
+    "svelte": "^5.0.0"
   },
   "devDependencies": {
     "@jill64/eslint-config-svelte": "2.0.1",
-    "@jill64/npm-demo-layout": "1.0.249",
+    "@jill64/npm-demo-layout": "2.0.1",
     "@jill64/playwright-config": "2.4.2",
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "2.0.1",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/b418e2946c29c664dd9b767040604d87e9ff1def8a07c2f492fbaab477b7593d/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/5defcc4fb683158138b491aa1fee1f40d26e665019ee0cf1ee0703d58c1c5124/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",

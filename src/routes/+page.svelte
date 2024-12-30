@@ -1,6 +1,6 @@
 <script lang="ts">
   import { browser } from '$app/environment'
-  import { hydrated } from '$lib'
+  import { is } from '$lib/index.svelte'
   import { HighlightSvelte } from '@jill64/npm-demo-layout/highlight'
   import { RotateCwIcon } from 'svelte-feather-icons'
   import { fade, slide } from 'svelte/transition'
@@ -21,7 +21,7 @@
 
 <main>
   <div>
-    {#if $hydrated}
+    {#if is.hydrated}
       <h2 transition:slide>Hydrated</h2>
     {:else}
       <h2 transition:slide>Not Hydrated</h2>
