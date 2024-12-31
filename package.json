@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@jill64/eslint-config-svelte": "2.0.2",
-    "@jill64/npm-demo-layout": "2.0.1",
+    "@jill64/npm-demo-layout": "2.0.2",
     "@jill64/playwright-config": "2.4.2",
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "2.0.1",
@@ -57,12 +57,13 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/3a86ea85bb1e5c1e7c9f05aa9d8237c6fa675f5c5ab8cd6f8b7e665335fcdeb5/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/5385ebff3e7a6576c355821d0b1aac7d2723211f286ab82aa69ae64b8d73be23/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
   "keywords": [
     "hydraion",
+    "library",
     "ssr",
     "state",
     "store",
