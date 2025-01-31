@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/631a7463928d177935534906851b56bc3968da97027bbaf1a2a762fb5e2d384f/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/4e336feffbad006686c766aa0204c4bdee5c5e645435b4cda7bd155c840dc17b/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
