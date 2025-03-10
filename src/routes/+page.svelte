@@ -8,6 +8,7 @@
 </script>
 
 <aside>
+  <!-- eslint-disable-next-line -->
   <button transition:fade on:click={() => location.reload()}>
     <RotateCwIcon />
     <span style:font-size="large">Reload</span>
