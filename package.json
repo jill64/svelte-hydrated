@@ -17,13 +17,13 @@
   "prettier": "@jill64/prettier-config",
   "scripts": {
     "dev": "vite dev",
-    "build": "vite build && npm run package",
-    "preview": "npm run build && vite preview",
-    "prepack": "npm run build",
-    "package": "svelte-kit sync && npx @sveltejs/package && npx publint",
-    "check": "svelte-kit sync && npx svelte-check",
-    "lint": "npm run check && npx eslint .",
-    "format": "npx @jill64/psx",
+    "build": "vite build && bun run package",
+    "preview": "bun run build && vite preview",
+    "prepack": "bun run build",
+    "package": "svelte-kit sync && bunx @sveltejs/package && bunx publint",
+    "check": "svelte-kit sync && bunx svelte-check",
+    "lint": "bun run check && eslint .",
+    "format": "bunx psvx",
     "test": "playwright test"
   },
   "peerDependencies": {
@@ -31,21 +31,20 @@
     "svelte": "^5.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-svelte": "2.0.6",
+    "@jill64/eslint-config-svelte": "2.2.0",
     "@jill64/npm-demo-layout": "2.0.15",
-    "@jill64/playwright-config": "2.4.2",
+    "@jill64/playwright-config": "3.0.0",
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "2.0.6",
-    "@jill64/universal-sanitizer": "1.4.1",
-    "@playwright/test": "1.50.1",
-    "@sveltejs/adapter-cloudflare": "5.0.2",
-    "@sveltejs/kit": "2.17.1",
-    "svelte": "5.19.7",
+    "@playwright/test": "1.51.0",
+    "@sveltejs/adapter-cloudflare": "5.0.3",
+    "@sveltejs/kit": "2.19.0",
+    "svelte": "5.22.6",
     "svelte-feather-icons": "4.2.0",
-    "typescript": "5.7.3",
-    "vite": "6.0.11",
-    "vitest": "3.0.4",
-    "@sveltejs/vite-plugin-svelte": "5.0.3"
+    "typescript": "5.8.2",
+    "vite": "6.2.1",
+    "@sveltejs/vite-plugin-svelte": "5.0.3",
+    "eslint": "9.22.0"
   },
   "homepage": "https://github.com/jill64/svelte-hydrated#readme",
   "author": {
@@ -57,7 +56,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-hydrated.git",
-    "image": "https://opengraph.githubassets.com/d055df295dc6afb7428191faa2b7c6784fb33d0e6d2db8cb4eae1d6d7b76da6d/jill64/svelte-hydrated"
+    "image": "https://opengraph.githubassets.com/371dfbc53c6227ae5ae7d0bbc1453795285864c9786b5a4e4144eec415fd9747/jill64/svelte-hydrated"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-hydrated/issues",
