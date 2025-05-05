@@ -42,7 +42,7 @@
     "svelte": "5.24.1",
     "svelte-feather-icons": "4.2.0",
     "typescript": "5.8.3",
-    "vite": "6.3.4",
+    "vite": "6.3.5",
     "@sveltejs/vite-plugin-svelte": "5.0.3",
     "eslint": "9.26.0"
   },
